@@ -1,5 +1,7 @@
 <?php
 
+// Testing #310. This file should have LF line endings on linux.
+
 namespace mik\config;
 
 class ConfigTest extends \PHPUnit_Framework_TestCase
